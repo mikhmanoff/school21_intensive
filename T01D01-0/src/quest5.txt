@@ -1,0 +1,21 @@
+1) I opened the directory with door configarations via command below:
+cd T01D01-0/src/door_management_files/door_configuration/
+
+2) Then, I opened the file "door_1.conf" through Vim text editor via next command:
+vim door_1.conf
+
+3) Then I entered "i" to access the "INSERT MODE".
+
+4) By using cursor keys I moved the cursor to the "CLOSED", specifically I pressed next cursor keys:
+3 times down, 14 times right
+
+5) After it I deleted the word "CLOSED" by using "backspace" button 6 times.
+
+5) The next step was to enter the word "OPEN". First of all I switched on "CAPS LOCK" mode to enter upper-case keys. Then by using "o", "p", "e" and "n" buttons I required word "OPEN"
+
+6) After it by pressing "Escape" button I exited the "INSERT: mode.
+
+7) The final step was "Save and exit" current file, espesially "door_1.conf". This was happened via entering the next command:
+:qw
+
+8) Congratulations! The file edited and saved successfully.
